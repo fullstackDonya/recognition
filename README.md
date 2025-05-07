@@ -43,4 +43,5 @@ Test accuracy: 0.58, Loss: 1.1846
    macro avg       0.14      0.14      0.14      7178
 weighted avg       0.17      0.17      0.17      7178
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/ac8d9e93-a649-4a1b-95d9-ecc9b7e13012)
+
